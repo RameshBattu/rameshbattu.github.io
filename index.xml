@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>Data Science Hack #1 - Resource Downloader</title>
-      <link>https://rameshbattu.github.io/post/datasciencehack1/</link>
-      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
-      
-      <guid>https://rameshbattu.github.io/post/datasciencehack1/</guid>
-      <description>Data Science Hack #1 - Resource Downloader: How can you extract image data directly from chrome in one click?
-Imagine that you want to make your own machine learning project but you don&amp;rsquo;t have enough data, it becomes a daunting task
-Worry not you can use the ResourceSaver extension to directly download data! Let&amp;rsquo;s see how!
-Simple Steps:  1- Install the chrome extension from the given URL (https://bit.ly/2UkiZc6). 2- Go to Google Images or any webpage from where you want to save the data.</description>
-    </item>
-    
-    <item>
       <title>Data Science Hack- Pandas Apply</title>
       <link>https://rameshbattu.github.io/blogs/datasciencehack2/</link>
       <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
