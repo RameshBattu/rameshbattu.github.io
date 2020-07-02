@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ramesh Battu</title>
+    <link>https://rameshbattu.github.io/blogs/</link>
+    <description>Recent content in Blog on Ramesh Battu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://rameshbattu.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Hack- Pandas Apply</title>
+      <link>https://rameshbattu.github.io/blogs/datasciencehack2/</link>
+      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/datasciencehack2/</guid>
+      <description>Data Science Hack - Pandas Apply:   Pandas Apply is one of the most commonly used function for playing with data and creating new variables.
+  It returns a values after passing each row/column of data frame with some function.The function can be both default or user-defined.
+  For instances, here it can be used for finding missing values in each row and column.
+  Simple Code:   Happy Learning.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Hack- Resource Downloader</title>
+      <link>https://rameshbattu.github.io/blogs/datasciencehack1/</link>
+      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/datasciencehack1/</guid>
+      <description>Data Science Hack - Resource Downloader: How can you extract image data directly from chrome in one click?
+Imagine that you want to make your own machine learning project but you don&amp;rsquo;t have enough data, it becomes a daunting task
+Worry not you can use the ResourceSaver extension to directly download data! Let&amp;rsquo;s see how!
+Simple Steps:  1- Install the chrome extension from the given URL (https://bit.ly/2UkiZc6). 2- Go to Google Images or any webpage from where you want to save the data.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Hack3 - Extract E-mails from text</title>
+      <link>https://rameshbattu.github.io/blogs/datasciencehack3/</link>
+      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/datasciencehack3/</guid>
+      <description>Extract E-mails from text:   Here is an interesting hack to extract email ids present in long pieces of text by just using 2 lines of code in Python using regular expressions.
+  by writing simple python code we can get email id&amp;rsquo;s from the text corpus.
+  !!! what are you waiting for !!! just open jupyter notebook try it your self to note down the hack .</description>
+    </item>
+    
+    <item>
+      <title>Data Science Hack3 - Extract E-mails from text</title>
+      <link>https://rameshbattu.github.io/blogs/datasciencehack4/</link>
+      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/datasciencehack4/</guid>
+      <description>Data Science Hack 2 - Pandas Apply:   Here is an interesting hack to extract email ids present in long pieces of text by just using 2 lines of code in Python using regular expressions.
+  by writing simple python code we can get email id&amp;rsquo;s from the text corpus.
+  !!! what are you waiting for !!! just open jupyter notebook try it your self to note down the hack .</description>
+    </item>
+    
+    <item>
+      <title>Data Science Hacks, Tips and Tricks</title>
+      <link>https://rameshbattu.github.io/blogs/blog2/</link>
+      <pubDate>Fri, 12 Jun 2020 14:51:12 +0600</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/blog2/</guid>
+      <description>About Data Science Hacks, Tips and Tricks blog : Welcome to the Data Science Hacks, Tips and Tricks Blog! i am delighted to have you in this Blog.:) Before i begin and look at the various hacks, tips, and tricks you can employ in your data science role, i wanted to explain the methodology behind this blog.
+The blog is structured in a way that you can go through each hack as a separate module.</description>
+    </item>
+    
+    <item>
+      <title>Case Study 1: Self_Driving_Car</title>
+      <link>https://rameshbattu.github.io/blogs/blog1/</link>
+      <pubDate>Tue, 19 Mar 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://rameshbattu.github.io/blogs/blog1/</guid>
+      <description>This Project demonstrates a real world case study.The aim of this project is to create a model to predict the correct steering angle from the given test image of the road. Here i build a minimal version of self driving car. Here, i have a front camera view. This will transfer input to the computer. Then Deep Learning algorithm in computer predicts the steering angle to avoid all sorts of collisions.</description>
+    </item>
+    
+  </channel>
+</rss>
