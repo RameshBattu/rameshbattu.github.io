@@ -1,12 +1,13 @@
 # These are supported funding model platforms
 
 github: [Ramesh Battu]
-patreon: Ramesh Battu
+patreon: # Ramesh Battu
 open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
-tidelift: npm/rameshbattu
+tidelift: # npm/rameshbattu
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: Ramesh Battu
+liberapay: # Ramesh Battu
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
+paypal : ["https://www.paypal.me/RameshBattu", Ramesh Battu]
 custom: ["https://www.paypal.me/RameshBattu"]
